@@ -66,10 +66,3 @@ class Keys:
             "border: 2px solid red" # 边框，red红色
         )
 
-if __name__ == '__main__':
-    key = Keys('Chrome')
-    key.open('http://www.baidu.com')
-    key.locator('id', 'kw').send_keys('你好')
-    key.click('id', 'su')
-    key.wait(3)
-    key.quit()
