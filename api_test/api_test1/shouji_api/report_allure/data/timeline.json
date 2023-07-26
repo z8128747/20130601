@@ -1,0 +1,39 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-S8G99BF",
+    "children" : [ {
+      "name" : "10936-MainThread",
+      "children" : [ {
+        "name" : "手机接口1",
+        "uid" : "f643f304b457e610",
+        "parentUid" : "a3421a02c851b6bb5f71daa911296c4c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1690013189481,
+          "stop" : 1690013189621,
+          "duration" : 140
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'shouji': 13756755448, 'appkey': 'a7baf0f9580e8a01'}" ]
+      }, {
+        "name" : "手机接口1",
+        "uid" : "9f54cece7295dfee",
+        "parentUid" : "a3421a02c851b6bb5f71daa911296c4c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1690013189628,
+          "stop" : 1690013189688,
+          "duration" : 60
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'shouji': 15656755448, 'appkey': 'a7baf0f9580e8a01'}" ]
+      } ],
+      "uid" : "a3421a02c851b6bb5f71daa911296c4c"
+    } ],
+    "uid" : "d34bed2d2e16c3590ea497c71062d42a"
+  } ]
+}

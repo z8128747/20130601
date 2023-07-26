@@ -1,0 +1,21 @@
+[ {
+  "uid" : "f643f304b457e610",
+  "name" : "手机接口1",
+  "time" : {
+    "start" : 1690013189481,
+    "stop" : 1690013189621,
+    "duration" : 140
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9f54cece7295dfee",
+  "name" : "手机接口1",
+  "time" : {
+    "start" : 1690013189628,
+    "stop" : 1690013189688,
+    "duration" : 60
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

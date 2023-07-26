@@ -1,0 +1,35 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "test_api",
+    "children" : [ {
+      "name" : "手机接口1",
+      "uid" : "f643f304b457e610",
+      "parentUid" : "1909346d716315b605b14bcb10204a8d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1690013189481,
+        "stop" : 1690013189621,
+        "duration" : 140
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "{'shouji': 13756755448, 'appkey': 'a7baf0f9580e8a01'}" ]
+    }, {
+      "name" : "手机接口1",
+      "uid" : "9f54cece7295dfee",
+      "parentUid" : "1909346d716315b605b14bcb10204a8d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1690013189628,
+        "stop" : 1690013189688,
+        "duration" : 60
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "{'shouji': 15656755448, 'appkey': 'a7baf0f9580e8a01'}" ]
+    } ],
+    "uid" : "1909346d716315b605b14bcb10204a8d"
+  } ]
+}
